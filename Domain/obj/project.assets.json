@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\Domain.csproj",
-      "projectName": "Domain",
-      "projectPath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\BuberDinner.Domain.csproj",
+      "projectName": "BuberDinner.Domain",
+      "projectPath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\BuberDinner.Domain.csproj",
       "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\obj\\",
       "projectStyle": "PackageReference",
