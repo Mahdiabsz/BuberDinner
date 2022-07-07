@@ -79,6 +79,11 @@
           "BuberDinner.Contracts.dll": {}
         }
       },
+      "BuberDinner.Domain/1.0.0": {
+        "runtime": {
+          "BuberDinner.Domain.dll": {}
+        }
+      },
       "BuberDinner.Infrastructure/1.0.0": {
         "dependencies": {
           "BuberDinner.Application": "1.0.0"
@@ -150,6 +155,11 @@
       "sha512": ""
     },
     "BuberDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberDinner.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

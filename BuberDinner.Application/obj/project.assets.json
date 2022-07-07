@@ -54,8 +54,8 @@
     },
     "BuberDinner.Domain/1.0.0": {
       "type": "project",
-      "path": "../Domain/BuberDinner.Domain.csproj",
-      "msbuildProject": "../Domain/BuberDinner.Domain.csproj"
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -96,6 +96,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            },
             "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\BuberDinner.Domain.csproj": {
               "projectPath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\Domain\\BuberDinner.Domain.csproj"
             }

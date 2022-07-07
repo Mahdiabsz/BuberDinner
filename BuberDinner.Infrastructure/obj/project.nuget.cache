@@ -1,10 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "QVCBZXPQvTZaG8j1BB44YlLklJ2hhW9G1SqpbUsDi6vfvNsTgsrxJhJJtvQibTvfY0JeD8EefLLW2jmLQYa+PA==",
+  "dgSpecHash": "oOxPlehCwLP8nHH3h7e/zchC9oerIAiwqYxNWPpjhmoMBUSyns2/QIr23PCsnQnzUqcZi4RwvUsrTzbF5LgutA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mahdi\\source\\repos\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.21.0\\microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
